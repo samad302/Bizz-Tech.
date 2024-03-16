@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Bizz-Tech/static/css/main.f4aae147.css",
-    "main.js": "/Bizz-Tech/static/js/main.9f6da33e.js",
+    "main.js": "/Bizz-Tech/static/js/main.f9e60825.js",
     "static/js/453.40b669db.chunk.js": "/Bizz-Tech/static/js/453.40b669db.chunk.js",
     "static/media/ecommerce.jpg": "/Bizz-Tech/static/media/ecommerce.6ae8b0be04eacc5b9388.jpg",
     "static/media/single.png": "/Bizz-Tech/static/media/single.20196aa3e7e7fa48f8f7.png",
@@ -10,11 +10,11 @@
     "static/media/laptop.jpg": "/Bizz-Tech/static/media/laptop.34e0a7415501215c39ef.jpg",
     "index.html": "/Bizz-Tech/index.html",
     "main.f4aae147.css.map": "/Bizz-Tech/static/css/main.f4aae147.css.map",
-    "main.9f6da33e.js.map": "/Bizz-Tech/static/js/main.9f6da33e.js.map",
+    "main.f9e60825.js.map": "/Bizz-Tech/static/js/main.f9e60825.js.map",
     "453.40b669db.chunk.js.map": "/Bizz-Tech/static/js/453.40b669db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4aae147.css",
-    "static/js/main.9f6da33e.js"
+    "static/js/main.f9e60825.js"
   ]
 }
